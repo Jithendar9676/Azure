@@ -1,2 +1,2 @@
 # Azure
-Note
+Cloud computing
